@@ -1,0 +1,14 @@
+li {
+    border: black 8px solid;
+    background-color: red;
+    color: red;
+    width: 100px;
+}
+div {
+    border: black 8px solid;
+    width: 150px; 
+}
+h2 {
+    font-size: 25px;
+    text-decoration: underline;
+}

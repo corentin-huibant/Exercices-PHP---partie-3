@@ -1,0 +1,14 @@
+p {
+    color: blueviolet;
+    font-style: italic;
+}
+li {
+    border: black 8px solid;
+    background-color: red;
+    color: red;
+    width: 100px;
+}
+h2 {
+    font-size: 25px;
+    text-decoration: underline;
+}
